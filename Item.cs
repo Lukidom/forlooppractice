@@ -1,19 +1,17 @@
-namespace 
 
-{
+using System.Collections.Generic;
     public class Item
     {
-        public int value;
+        public int _value;
 
         // Constructor for creating new items
 
         public Item(int value)
         {
-            value = value;
+            _value = value;
         }
     }
 
 
-}
 
     

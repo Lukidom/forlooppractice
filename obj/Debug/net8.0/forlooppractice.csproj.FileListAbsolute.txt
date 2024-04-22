@@ -1,0 +1,15 @@
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.AssemblyInfoInputs.cache
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.AssemblyInfo.cs
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.csproj.CoreCompileInputs.cache
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.sourcelink.json
+C:\Users\Swing\forlooppractice\bin\Debug\net8.0\forlooppractice.exe
+C:\Users\Swing\forlooppractice\bin\Debug\net8.0\forlooppractice.deps.json
+C:\Users\Swing\forlooppractice\bin\Debug\net8.0\forlooppractice.runtimeconfig.json
+C:\Users\Swing\forlooppractice\bin\Debug\net8.0\forlooppractice.dll
+C:\Users\Swing\forlooppractice\bin\Debug\net8.0\forlooppractice.pdb
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.dll
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\refint\forlooppractice.dll
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.pdb
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\forlooppractice.genruntimeconfig.cache
+C:\Users\Swing\forlooppractice\obj\Debug\net8.0\ref\forlooppractice.dll
