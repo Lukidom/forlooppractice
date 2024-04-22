@@ -1,13 +1,19 @@
 ﻿
 
-    public class Program
+using System.ComponentModel;
+using System.Security.Cryptography.X509Certificates;
+
+public class Program
     // program class is the base class for the program
     {
         public static void Main(string[] args)
         {
-            // new list and instance
+            function();
+            
+        }
 
-            // For loop iterates through and creates five instances of item which is added to the list ItemLi than printed with a foreach loop
+        public static void function()
+        {
             for (int i = 0; i < 5; i++)
                 {
                     List<Item> ItemLi= new List<Item>();
@@ -29,17 +35,13 @@
 
                 foreach (string str in StringList)
                 {
-                    Console.WriteLine();
+                    Console.WriteLine(str);
                 }
             }
 
 
-            
         }
-
-
-
-
+        
     }
 
 

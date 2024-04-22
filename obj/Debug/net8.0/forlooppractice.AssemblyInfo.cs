@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("forlooppractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebeace10c5e9ee2ae2d4e9ef844e92ca21b4d9e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ff7d884fb86879de0b010cc34e431aec4a579e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("forlooppractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("forlooppractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
